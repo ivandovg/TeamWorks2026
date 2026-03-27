@@ -39,8 +39,7 @@
 
 # debug information files
 *.dwo
-/.vs/TeamWorks2026/v17
-/.vs/TeamWorks2026/FileContentIndex
-/.vs/TeamWorks2026/CopilotIndices/17.14.1593.33849
+/.vs
 *.user
 *.filters
+*.bmp
